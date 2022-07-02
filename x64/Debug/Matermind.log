@@ -1,0 +1,16 @@
+﻿  graMatermind.cpp
+C:\Users\anian\source\kursSDA\Matermind\graMatermind.cpp(9,2): error C2065: 'Game': undeclared identifier
+C:\Users\anian\source\kursSDA\Matermind\graMatermind.cpp(9,7): error C2146: syntax error: missing ';' before identifier 'g'
+C:\Users\anian\source\kursSDA\Matermind\graMatermind.cpp(9,7): error C3861: 'g': identifier not found
+C:\Users\anian\source\kursSDA\Matermind\graMatermind.cpp(13,2): error C2065: 'g': undeclared identifier
+  MasterMind.cpp
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.hpp(10,8): error C3646: 'board': unknown override specifier
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.hpp(10,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.hpp(22,16): error C2371: 'Board::table': redefinition; different basic types
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.hpp(21): message : see declaration of 'Board::table'
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.cpp(23,16): error C2597: illegal reference to non-static member 'Board::table'
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.cpp(23,16): error C3867: 'Board::table': non-standard syntax; use '&' to create a pointer to member
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.cpp(23,16): error C2568: '[': unable to resolve function overload
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.cpp(62,34): error C2660: 'Board::check': function does not take 2 arguments
+C:\Users\anian\source\kursSDA\Matermind\MasterMind.cpp(20,21): message : see declaration of 'Board::check'
+  Generating Code...
